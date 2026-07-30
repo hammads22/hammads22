@@ -1,131 +1,101 @@
 <!-- ========================================= -->
 <!--            Hammad Shahid                  -->
-<!--             GitHub Profile                -->
+<!--     Salesforce + AI — Production Grade     -->
 <!-- ========================================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:7C3AED,100:0b1020&height=220&section=header&text=Hammad%20Shahid&fontSize=55&fontColor=ffffff&fontAlignY=40" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:7C3AED,100:0b1020&height=200&section=header&text=Hammad%20Shahid&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Salesforce%20Developer%20%7C%20AI%20Integration%20Specialist&descSize=18&descColor=cccccc&descAlignY=55" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+AI-powered+CRM+tools;Salesforce+%2B+LLM+Integrations;Python+%7C+Apex+%7C+JavaScript;Bridging+CRM+with+external+LLMs" />
-
-<br/>
-
 <a href="https://www.linkedin.com/in/hammad-shahid-5b4214163/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-1E40AF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:hammad.shahid@dtcforce.com">
-  <img src="https://img.shields.io/badge/Email-Let's%20Talk-DC2626?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-hammad.shahid%40dtcforce.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://github.com/hammads22">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-hammads22-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Role-Salesforce%20Developer-00A1E0?style=for-the-badge&labelColor=0B1020" />
-<img src="https://img.shields.io/badge/Focus-CRM%20%2B%20AI%20Integration-7C3AED?style=for-the-badge&labelColor=0B1020" />
-<img src="https://img.shields.io/badge/Location-Paris%2C%20France-10B981?style=for-the-badge&labelColor=0B1020" />
+<img src="https://img.shields.io/badge/Salesforce-Developer-00A1E0?style=flat-square&logo=salesforce&logoColor=white" />
+<img src="https://img.shields.io/badge/Apex-Advanced-00A1E0?style=flat-square&logo=salesforce&logoColor=white" />
+<img src="https://img.shields.io/badge/LWC-Production-00A1E0?style=flat-square&logo=salesforce&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-AI%2FML-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Location-Paris%2C%20France-10B981?style=flat-square" />
 
 </div>
 
 ---
 
-# 🚀 About Me
+## What I Do
 
-Bridging **Salesforce CRM** with **external LLMs** to create AI-powered sales and operations tools. I work across the full stack — from Apex triggers and Lightning Web Components to Python-based AI pipelines and LangChain integrations.
+I build **AI-powered tooling for Salesforce** — the kind that turns a CRM from a database into a decision engine. LLM-driven case summarization, automated pipeline analytics with Sankey visualizations, AI agent integrations that work inside your existing Salesforce workflows.
 
-- 🔭 **Currently:** AI agent integrations for Salesforce CRM
-- 🌱 **Exploring:** Cloud architecture, homomorphic encryption for LLMs, LangChain
-- 💡 **Built:** Opportunity Sankey diagrams, AI case summarization middleware, LLM encryption research, Pokedex LWCs
-- ⚡ **Fun fact:** Also a badminton player when not coding
+I work across the full stack: **Apex triggers and Lightning Web Components** on the Salesforce side, **Python + LangChain** on the AI side. Everything I build ships to production, not just notebooks.
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hammads22&theme=tokyonight" width="100%"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hammads22&theme=tokyonight" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hammads22&theme=tokyonight" width="49%"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hammads22&theme=tokyonight" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hammads22&theme=tokyonight&utcOffset=2" width="49%"/>
-
-</div>
-
----
-
-# 🏆 Featured Projects
+## Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<div>
-  <h3>🔀 <a href="https://github.com/hammads22/opportunity-journey-map">Opportunity Journey Map</a></h3>
-  <p>Salesforce LWC component for visualizing opportunity path and stage progression with Sankey diagrams</p>
-  <br/>
-  <a href="https://github.com/hammads22/opportunity-journey-map"><b>↗ Open project</b></a>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&labelColor=0B1020&logo=salesforce&logoColor=white"/> <img src="https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&labelColor=0B1020"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=0B1020&logo=javascript&logoColor=F7DF1E"/>
-</div>
+
+### [🔀 Opportunity Journey Map](https://github.com/hammads22/opportunity-journey-map)
+
+Sankey diagram component that visualizes every stage transition in a deal pipeline — benchmarked against Closed Won deals. Green/orange/red color coding shows at a glance which deals are on track, at risk, or stalled.
+
+`Salesforce` `LWC` `JavaScript` `Apex` `Sankey`
+
 </td>
 <td width="50%" valign="top">
-<div>
-  <h3>🐕 <a href="https://github.com/hammads22/Dog_Breed_Classifier">Dog Breed Classifier</a></h3>
-  <p>ML image classification app that identifies dog breeds from photos using deep learning</p>
-  <br/>
-  <a href="https://github.com/hammads22/Dog_Breed_Classifier"><b>↗ Open project</b></a>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&labelColor=0B1020&logo=python&logoColor=yellow"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&labelColor=0B1020&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&labelColor=0B1020&logo=jupyter&logoColor=white"/>
-</div>
+
+### [⚡ Custom Salesforce Path LWC](https://github.com/hammads22/SalesforceLWCPath)
+
+Replicates and extends the standard Salesforce Path with one-click stage advancement, dynamic guidance panels, and real-time multi-user sync via Platform Events.
+
+`Salesforce` `LWC` `Apex` `Platform Events` `SLDS`
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<div>
-  <h3>⚡ <a href="https://github.com/hammads22/SalesforceLWCPath">Salesforce LWC Path</a></h3>
-  <p>Collection of Lightning Web Components for Salesforce — reusable, production-ready patterns</p>
-  <br/>
-  <a href="https://github.com/hammads22/SalesforceLWCPath"><b>↗ Open project</b></a>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&labelColor=0B1020&logo=salesforce&logoColor=white"/> <img src="https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&labelColor=0B1020"/> <img src="https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&labelColor=0B1020"/>
-</div>
+
+### [🐕 AI Dog Breed Classifier](https://github.com/hammads22/Dog_Breed_Classifier)
+
+Dual-model AI vision app: YOLOv8 detects dogs in images, a custom-trained ResNet50 classifies them into 120 breeds. Dockerized with a glassmorphism UI, AMP-optimized inference backend.
+
+`Python` `PyTorch` `YOLOv8` `Docker` `ResNet50`
+
 </td>
 <td width="50%" valign="top">
-<div>
-  <h3>🛡️ <a href="https://github.com/hammads22/Network_IDS_RaspberryPi4">Network IDS Pi</a></h3>
-  <p>Intrusion detection system built on Raspberry Pi 4 for network security monitoring</p>
-  <br/>
-  <a href="https://github.com/hammads22/Network_IDS_RaspberryPi4"><b>↗ Open project</b></a>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&labelColor=0B1020&logo=python&logoColor=yellow"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&labelColor=0B1020&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&labelColor=0B1020&logo=raspberrypi&logoColor=white"/>
-</div>
+
+### [🛡️ Network IDS on Raspberry Pi](https://github.com/hammads22/Network_IDS_RaspberryPi4)
+
+Portable intrusion detection appliance — Snort-based monitoring, firewall, DNS/DHCP, and Wi-Fi access point on a Raspberry Pi 4. Built for small business and home office security.
+
+`Linux` `Snort` `Raspberry Pi` `DNS` `Firewall`
+
 </td>
 </tr>
 </table>
 
 ---
 
-# 🧩 Tech Stack
+## Tech Stack
 
 <details open>
-<summary><b>☁️ Salesforce Ecosystem</b></summary>
+<summary><b>☁️ Salesforce</b></summary>
 <br/>
 
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Apex](https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![LWC](https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![LWC](https://img.shields.io/badge/Lightning_Web_Components-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![SOQL](https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Platform Events](https://img.shields.io/badge/Platform_Events-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Triggers](https://img.shields.io/badge/Triggers-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Sankey](https://img.shields.io/badge/Sankey_Diagrams-111827?style=for-the-badge)
 
 </details>
 
@@ -133,53 +103,51 @@ Bridging **Salesforce CRM** with **external LLMs** to create AI-powered sales an
 <summary><b>🤖 AI / ML & Backend</b></summary>
 <br/>
 
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=yellow)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-111827?style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </details>
 
 <details>
-<summary><b>⚙️ DevOps & Tools</b></summary>
+<summary><b>⚙️ Infrastructure & Tools</b></summary>
 <br/>
 
-![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=blue)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </details>
 
 ---
 
-# 🤝 Let's Connect
+## Open To
 
 <div align="center">
 
-Building AI-powered Salesforce tools. Always open to interesting projects and collaborations.
+**Salesforce Developer roles** — especially teams building AI features into their CRM workflows.
+
+**Contract & freelance work** on Salesforce + AI integrations, LWC development, or Apex backend.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/hammad-shahid-5b4214163/">
+  <img src="https://img.shields.io/badge/Message_me_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:hammad.shahid@dtcforce.com">
+  <img src="https://img.shields.io/badge/Or_email-hammad.shahid%40dtcforce.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/hammad-shahid-5b4214163/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-1E40AF?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:hammad.shahid@dtcforce.com">
-  <img src="https://img.shields.io/badge/Email-Let's%20Talk-DC2626?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/hammads22">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=hammads22&color=7C3AED&style=flat-square&label=Profile+Views" alt="views" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:7C3AED,100:0b1020&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:7C3AED,100:0b1020&height=100&section=footer"/>
