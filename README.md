@@ -41,29 +41,42 @@ Bridging **Salesforce CRM** with **external LLMs** to create AI-powered sales an
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=hammads22&show_icons=true&hide_border=true&theme=tokyonight" alt="Hammad's GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammads22&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hammads22&theme=tokyonight" alt="Stats" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hammads22&theme=tokyonight" alt="Repos per language" />
 </p>
 
 ### 🏆 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/hammads22/opportunity-journey-map">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hammads22&repo=opportunity-journey-map&hide_border=true&theme=tokyonight" alt="Opportunity Journey Map" />
-  </a>
-  <a href="https://github.com/hammads22/Dog_Breed_Classifier">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hammads22&repo=Dog_Breed_Classifier&hide_border=true&theme=tokyonight" alt="Dog Breed Classifier" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/hammads22/SalesforceLWCPath">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hammads22&repo=SalesforceLWCPath&hide_border=true&theme=tokyonight" alt="Salesforce LWC Path" />
-  </a>
-  <a href="https://github.com/hammads22/Network_IDS_RaspberryPi4">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hammads22&repo=Network_IDS_RaspberryPi4&hide_border=true&theme=tokyonight" alt="Network IDS Pi" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/hammads22/opportunity-journey-map">
+        <strong>🔀 Opportunity Journey Map</strong><br/>
+        <sub>Salesforce LWC path visualization</sub>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/hammads22/Dog_Breed_Classifier">
+        <strong>🐕 Dog Breed Classifier</strong><br/>
+        <sub>ML image classification app</sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/hammads22/SalesforceLWCPath">
+        <strong>⚡ Salesforce LWC Path</strong><br/>
+        <sub>Lightning Web Components collection</sub>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/hammads22/Network_IDS_RaspberryPi4">
+        <strong>🛡️ Network IDS Pi</strong><br/>
+        <sub>Intrusion detection on Raspberry Pi 4</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
